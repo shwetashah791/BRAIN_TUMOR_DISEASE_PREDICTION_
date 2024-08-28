@@ -11,6 +11,7 @@ Dataset:
 The dataset consists of MRI images of brains, divided into two classes: "no" (no tumor) and "yes" (tumor present).
 
 Methodology:
+
 Data Preprocessing: Load images from folders, resize to 100x100 pixels, and convert to grayscale.
 Split Dataset: Split the dataset into training (80%) and testing sets (20%).
 Random Forest: Train a Random Forest classifier on the training set and evaluate its performance on the testing set.
