@@ -8,7 +8,7 @@ To compare the performance of Random Forest, SVM, and NN algorithms on this task
 To identify the best algorithm for brain tumor disease prediction
 
 Dataset:
-The dataset consists of MRI images of brains, divided into two classes: "no" (no tumor) and "yes" (tumor present).
+The dataset consists of MRI images of brains, divided into two classes: "no" (no tumor) and "yes" (tumor present). Dataset is taken from KAGGLE
 
 Methodology:
 
